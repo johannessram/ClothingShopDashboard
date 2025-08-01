@@ -1,0 +1,101 @@
+Product_ID,Product_Name,Category,Price,Brand
+101,T-shirt,Clothing,25.0,Brand A
+102,Jeans,Clothing,75.0,Brand B
+103,Sneakers,Footwear,30.0,Brand C
+104,Jacket,Outerwear,120.0,Brand D
+105,Hat,Accessories,22.5,Brand E
+106,Scarf,Accessories,18.0,Brand F
+107,Boots,Footwear,95.0,Brand G
+108,Sweater,Clothing,60.0,Brand H
+109,Sunglasses,Accessories,45.0,Brand I
+110,Shorts,Clothing,35.0,Brand J
+111,Belt,Accessories,20.0,Brand K
+112,Socks,Clothing,10.0,Brand L
+113,Sandals,Footwear,40.0,Brand M
+114,Coat,Outerwear,150.0,Brand N
+115,Gloves,Accessories,15.0,Brand O
+116,Leggings,Clothing,28.0,Brand P
+117,Loafers,Footwear,55.0,Brand Q
+118,Windbreaker,Outerwear,80.0,Brand R
+119,Cap,Accessories,16.5,Brand S
+120,Tank Top,Clothing,22.0,Brand T
+121,Heels,Footwear,65.0,Brand U
+122,Parka,Outerwear,130.0,Brand V
+123,Beanie,Accessories,19.0,Brand W
+124,Polo Shirt,Clothing,32.0,Brand X
+125,Running Shoes,Footwear,70.0,Brand Y
+126,Blazer,Outerwear,110.0,Brand Z
+127,Necklace,Accessories,48.0,Brand A
+128,Cardigan,Clothing,52.0,Brand B
+129,Flip Flops,Footwear,18.0,Brand C
+130,Trench Coat,Outerwear,145.0,Brand D
+131,Bracelet,Accessories,27.0,Brand E
+132,Skirt,Clothing,38.0,Brand F
+133,Hiking Boots,Footwear,85.0,Brand G
+134,Vest,Outerwear,90.0,Brand H
+135,Earrings,Accessories,21.0,Brand I
+136,Dress,Clothing,58.0,Brand J
+137,Moccasins,Footwear,49.0,Brand K
+138,Down Jacket,Outerwear,160.0,Brand L
+139,Ring,Accessories,35.0,Brand M
+140,Top,Clothing,26.0,Brand N
+141,Clogs,Footwear,43.0,Brand O
+142,Raincoat,Outerwear,100.0,Brand P
+143,Watch,Accessories,120.0,Brand Q
+144,Overalls,Clothing,62.0,Brand R
+145,Derby Shoes,Footwear,78.0,Brand S
+146,Cape,Outerwear,140.0,Brand T
+147,Brooch,Accessories,23.0,Brand U
+148,Tunic,Clothing,30.0,Brand V
+149,Slippers,Footwear,25.0,Brand W
+150,Peacoat,Outerwear,125.0,Brand X
+151,Tie,Accessories,19.5,Brand Y
+152,Jumpsuit,Clothing,68.0,Brand Z
+153,Ankle Boots,Footwear,88.0,Brand A
+154,Bomber Jacket,Outerwear,135.0,Brand B
+155,Hoodie,Clothing,55.0,Brand C
+156,Sneaker Boots,Footwear,72.0,Brand D
+157,Kimono,Outerwear,98.0,Brand E
+158,Earmuffs,Accessories,17.0,Brand F
+159,Shirt,Clothing,33.0,Brand G
+160,Lace-up Boots,Footwear,90.0,Brand H
+161,Fleece Jacket,Outerwear,112.0,Brand I
+162,Wallet,Accessories,50.0,Brand J
+163,Crop Top,Clothing,27.0,Brand K
+164,Trekking Shoes,Footwear,75.0,Brand L
+165,Cashmere Coat,Outerwear,170.0,Brand M
+166,Hairband,Accessories,14.0,Brand N
+167,Kimono Dress,Clothing,48.0,Brand O
+168,Slides,Footwear,22.0,Brand P
+169,Motorcycle Jacket,Outerwear,145.0,Brand Q
+170,Anklet,Accessories,18.5,Brand R
+171,Chinos,Clothing,45.0,Brand S
+172,Ballet Flats,Footwear,35.0,Brand T
+173,Cloak,Outerwear,155.0,Brand U
+174,Chain,Accessories,30.0,Brand V
+175,Sweatpants,Clothing,42.0,Brand W
+176,Trail Shoes,Footwear,68.0,Brand X
+177,Flight Jacket,Outerwear,138.0,Brand Y
+178,Scarf,Accessories,18.0,Brand Z
+179,Culottes,Clothing,40.0,Brand A
+180,Espadrilles,Footwear,37.0,Brand B
+181,Down Parka,Outerwear,165.0,Brand C
+182,Eyewear,Accessories,55.0,Brand D
+183,Henley Shirt,Clothing,31.0,Brand E
+184,Hiking Shoes,Footwear,82.0,Brand F
+185,Faux Fur Coat,Outerwear,158.0,Brand G
+186,Pendant,Accessories,25.0,Brand H
+187,Wrap Dress,Clothing,59.0,Brand I
+188,Oxford Shoes,Footwear,77.0,Brand J
+189,Sherpa Jacket,Outerwear,120.0,Brand K
+190,Hair Clip,Accessories,13.0,Brand L
+191,Graphic Tee,Clothing,29.0,Brand M
+192,Boat Shoes,Footwear,55.0,Brand N
+193,Field Jacket,Outerwear,115.0,Brand O
+194,Charm,Accessories,16.0,Brand P
+195,Denim Skirt,Clothing,36.0,Brand Q
+196,Trail Boots,Footwear,91.0,Brand R
+197,Quilted Jacket,Outerwear,148.0,Brand S
+198,Keychain,Accessories,12.5,Brand T
+199,Kimono Top,Clothing,44.0,Brand U
+200,Ski Boots,Footwear,135.0,Brand V

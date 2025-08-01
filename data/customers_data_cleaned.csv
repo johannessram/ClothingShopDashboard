@@ -1,0 +1,81 @@
+Customer_ID,Name,Age,Gender,Location,Join_Date,Total_Spent
+2001,Alice,28.0,Female,New York,2022-05-10,500.0
+2002,Bob,35.0,Male,Los Angeles,2022-06-15,750.0
+2003,Charlie,22.0,Male,Chicago,2022-07-20,300.0
+2004,Diana,30.0,Female,Houston,2022-08-25,600.0
+2005,Eva,27.0,Female,Phoenix,2022-09-30,450.0
+2006,Alice,28.0,FEMALE,New York,2022/05/10,500.0
+2009,Lucas,40.0,Male,Miami,2022-11-15,800.0
+2010,Sophia,33.0,Female,Seattle,2022-11-20,350.5
+2011,Bob,35.0,male,Los Angeles,2022-06-15,750.0
+2014,David,45.0,Male,Atlanta,2022-12-10,0.0
+2015,Linda,29.0,Female,San Diego,2022-12-15,600.0
+2016,Robert,51.0,Male,Las Vegas,2022-12-20,870.0
+2017,Lisa,28.0,Female,Austin,2022-12-25,490.0
+2018,James,60.0,Male,Portland,2022-12-30,950.0
+2019,Emily,23.0,FEMALE,San Jose,2023-01-05,200.0
+2020,Anna,25.0,Female,Jacksonville,2023-01-10,430.0
+2021,John,34.0,Male,Fort Worth,2023-01-15,780.0
+2022,Tom,31.0,Male,Columbus,2023-01-20,540.0
+2023,Amanda,29.0,female,Charlotte,2023-01-25,510.0
+2024,Eva,27.0,Female,Phoenix,2022-09-30,450.0
+2025,Ethan,42.0,Male,Indianapolis,2023-02-01,870.0
+2026,Grace,38.0,Female,San Francisco,2023-02-05,300.0
+2027,Noah,33.0,Male,Detroit,2023-02-10,750.0
+2028,Isabella,22.0,Female,El Paso,2023-02-15,620.0
+2029,Liam,19.0,Male,Memphis,2023-02-20,210.0
+2030,Olivia,31.0,Female,Oklahoma City,2023-02-25,390.0
+2031,Aiden,36.0,Male,Louisville,2023-03-01,820.0
+2033,Lucas,40.0,Male,Miami,2022-11-15,800.0
+2034,Aria,34.0,Female,Milwaukee,2023-03-10,580.0
+2035,Alexander,43.0,Male,Albuquerque,2023-03-15,920.0
+2037,Daniel,31.0,Male,Fresno,2023-03-25,810.0
+2038,Chloe,28.0,Female,Mesa,2023-03-30,480.0
+2039,Matthew,27.0,Male,Sacramento,2023-04-05,610.0
+2040,Abigail,29.0,Female,Kansas City,2023-04-10,550.0
+2041,Jackson,37.0,Male,Atlanta,2023-04-15,700.0
+2042,Nora,32.0,Female,Omaha,2023-04-20,600.0
+2043,Sebastian,48.0,Male,Raleigh,2023-04-25,990.0
+2044,Sofia,24.0,Female,Miami,2023-04-30,460.0
+2045,Elijah,-1.0,Male,Long Beach,2023-05-05,350.0
+2046,Ella,26.0,Female,Virginia Beach,2023-05-10,300.0
+2047,Henry,30.0,Male,Oakland,2023-05-15,560.0
+2048,Avery,28.0,Female,Minneapolis,2023-05-20,390.0
+2049,Logan,35.0,Male,Tulsa,2023-05-25,710.0
+2050,Lily,22.0,Female,Arlington,2023-05-30,320.0
+2051,Jayden,29.0,Male,Tampa,2023-06-01,850.0
+2053,David,45.0,Male,Atlanta,2022-12-10,0.0
+2054,Zoe,27.0,Female,Wichita,2023-06-10,370.0
+2055,Carter,38.0,Male,Cleveland,2023-06-15,940.0
+2056,Leah,24.0,Female,Bakersfield,2023-06-20,280.0
+2057,Owen,33.0,Male,Aurora,2023-06-25,810.0
+2058,Samantha,31.0,Female,Honolulu,2023-06-30,300.0
+2059,Wyatt,40.0,Male,Lexington,2023-07-05,720.0
+2060,Natalie,26.0,Female,Stockton,2023-07-10,500.0
+2061,Julian,28.0,Male,Cincinnati,2023-07-15,610.0
+2062,Victoria,29.0,Female,Anchorage,2023-07-20,470.0
+2063,Levi,27.0,Male,Plano,2023-07-25,650.0
+2064,Grace,38.0,Female,San Francisco,2023-02-05,300.0
+2065,Addison,25.0,Female,Laredo,2023-07-30,310.0
+2066,Luke,34.0,Male,Chandler,2023-08-01,800.0
+2067,Stella,23.0,Female,Garland,2023-08-05,200.0
+2068,Anthony,36.0,Male,Glendale,2023-08-10,840.0
+2069,Zoe,27.0,Female,Wichita,2023-06-10,370.0
+2070,Penelope,21.0,Female,Scottsdale,2023-08-15,310.0
+2071,Isaac,39.0,Male,Irving,2023-08-20,950.0
+2072,Aubrey,31.0,Female,Chesapeake,2023-08-25,460.0
+2073,Thomas,38.0,Male,Hialeah,2023-08-30,710.0
+2074,Eleanor,28.0,Female,North Las Vegas,2023-09-01,500.0
+2075,Andrew,41.0,Male,Fremont,2023-09-05,880.0
+2076,Lillian,22.0,Female,Boise,2023-09-10,360.0
+2077,Gabriel,37.0,Male,Reno,2023-09-15,900.0
+2078,Alice,28.0,Female,New York,2022-05-10,500.0
+2079,Skylar,30.0,Female,Spokane,2023-09-20,420.0
+2080,Christian,33.0,Male,Baton Rouge,2023-09-25,770.0
+2081,Naomi,27.0,Female,Richmond,2023-09-30,390.0
+2082,Jack,36.0,Male,Modesto,2023-10-05,820.0
+2083,Sadie,25.0,Female,Des Moines,2023-10-10,280.0
+2084,Jaxon,40.0,Male,Oxnard,2023-10-15,860.0
+2085,Paisley,29.0,Female,Moreno Valley,2023-10-20,490.0
+2086,Caleb,35.0,Male,Fayetteville,2023-10-25,730.0
+2089,Bob,35.0,Male,Los Angeles,invalid-date,750.0
