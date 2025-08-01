@@ -6,6 +6,12 @@ import pandas as pd
 def show(kpi_summary, segments_summary):
     st.header("KPI Insights")
 
+
+    # Textual insights
+    top_segment = segments_summary.sort_values("Count_in_cluster", ascending=False).iloc[0]
+    st.info(f"📌 Largest segment is Cluster {top_segment['Cluster']} with {top_segment['Count_in_cluster']} customers.")
+
+
     total_impressions = kpi_summary["Impressions"].sum()
     total_conversions = kpi_summary["Conversions"].sum()
     total_budget = kpi_summary["Budget"].sum()
